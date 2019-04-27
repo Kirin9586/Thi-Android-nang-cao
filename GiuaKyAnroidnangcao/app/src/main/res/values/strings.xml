@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Giua Ky Anroid nang cao</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="code">MSSV</string>
+    <string name="Tenmon">Mon hoc</string>
+    <string name="mclass">Lop</string>
+    <string name="tcinchi">Tin chi</string>
+    <string name="thong">Thong tin</string>
+    <string name="thongtin">Thong tin</string>
+    <string name="tcinchi1">Tin chi</string>
+    <string name="mclassa">Lop</string>
+    <string name="Tenmon1">Mon</string>
+    <string name="btn_edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="insert">Add</string>
+    <string name="update">Delete</string>
+</resources>
